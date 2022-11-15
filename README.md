@@ -1,4 +1,4 @@
-<p align="center"><a href="https://cre8-it.de" target="_blank"><img src="	https://cre8-it.de/img/logo_web.png" width="400" alt="cre8-it Logo"></a></p>
+<p align="center"><a href="https://cre8-it.de" target="_blank"><img src="https://cre8-it.de/img/logo_web.png" width="400" alt="cre8-it Logo"></a></p>
 
 
 # cre8-it software development from Moenchengladbach / Germany
